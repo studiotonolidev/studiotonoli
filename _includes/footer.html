@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper row" style="text-align: center">
+      <div class="row">
+        <div class="col-sm-6">
+          {{- site.description | escape -}}
+        </div>
+        <div class="col-sm-6">
+          {{ site.content.address }}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-6">
+          <a href="mailto:{{ site.email }}">
+            {{ site.email }}
+          </a>
+          <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+            <svg class="svg-icon" style="margin-top: 2px; margin-left: 5px">
+              <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+            </svg>
+            <span class="username"></span>
+          </a>
+        </div>
+        <div class="col-sm-6">
+          {{ site.content.phone }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+</footer>
