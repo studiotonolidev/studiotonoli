@@ -35,6 +35,8 @@ content:
   phone: 030 2693196
   address: "via Tito Speri, 55/A, 25082, Botticino (BS)"
 
+permalink: /:title/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
