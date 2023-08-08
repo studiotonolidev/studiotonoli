@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Edilizia Residenziale (3/5)"
+dir: ville/3
+preview: 1.jpg
+---
+
+### Nuova costruzione
+
+![image-title-here](../../../foto/ville/3/1.jpg){:class=""}
+

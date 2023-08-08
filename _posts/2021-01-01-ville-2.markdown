@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Edilizia Residenziale (2/5)"
+dir: ville/2
+preview: 1.jpg
+---
+
+### Prima dei lavori
+
+![image-title-here](../../../foto/ville/2/2.jpg){:class=""}
+
+
+### Dopo i lavori
+
+![image-title-here](../../../foto/ville/2/1.jpg){:class=""}
+
