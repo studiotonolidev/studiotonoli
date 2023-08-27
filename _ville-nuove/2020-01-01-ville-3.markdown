@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "titolone2"
+dir: ville/3
+preview: 1.jpg
+---
+
+

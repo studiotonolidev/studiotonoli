@@ -2,25 +2,23 @@
 layout: default
 ---
 
-{%- if site.posts.size > 0 -%}
-<h2 class="post-list-heading">{{ page.list_title | default: "Progetti" }}</h2>
+{% assign collection =  site.collections | where: "label", page.works | first %}
+
+{% for node in collection.docs %}
+{% endfor %}
+
 <ul class="post-list row">
-    {%- for post in site.posts -%}
+    {%- for node in collection.docs -%}
     <li class="col-sm-6 col-md-4">
-        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} -->
-        <span class="post-meta">{{ post.years }}</span>
         <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            <a class="post-link" href="{{ node.url | relative_url }}">
+            {{ node.title | escape }}
             </a>
         </h3>
-        {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-        {%- endif -%}
-        <a href="{{ post.url | relative_url }}">
-            <img class="work-preview" src="../foto/{{ post.dir }}/{{ post.preview }}">
+
+        <a href="{{ node.url | relative_url }}">
+            <img class="work-preview" src="../foto/{{ node.dir }}/{{ node.preview }}">
         </a>
     </li>
     {%- endfor -%}
 </ul>
-{%- endif -%}

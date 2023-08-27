@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2 class="post-list-heading">{{ page.list_title | default: "Realizzazioni" }}</h2>
+<ul class="post-list row">
+    {%- for area in site.areas -%}
+    <li class="col-sm-6 col-md-4">
+        <h3>
+            <a class="post-link" href="{{ area.content-url | default: area.url }}">
+            {{ area.title | escape }}
+            </a>
+        </h3>
+
+        <a href="{{ area.content-url | default: area.url }}">
+            <img class="work-preview" src="../foto/{{ area.dir }}/{{ area.preview }}">
+        </a>
+    </li>
+    {%- endfor -%}
+</ul>

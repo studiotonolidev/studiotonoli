@@ -27,6 +27,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: santo-tonoli-13008968
 linkedin: santo-tonoli
 
+collections:
+  areas:
+    output: true
+  ville-nuove:
+    output: true
+  ville-ristr:
+    output: true
+  restauri:
+    output: true
+  lavori-bm:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
