@@ -1,7 +1,7 @@
 ---
 layout: areas
 title:  "Restauro e consolidamento"
-dir: ville/1
-preview: 2.png
+dir: Restauro e consolidamento/Campanile BS
+preview: 1.jpg
 content-url: /restauro-e-consolidamento
 ---

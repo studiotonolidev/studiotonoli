@@ -17,7 +17,7 @@ layout: default
         </h3>
 
         <a href="{{ node.url | relative_url }}">
-            <img class="work-preview" src="../foto/{{ node.dir }}/{{ node.preview }}">
+            <img class="work-preview" src="{{ node.dir }}/{{ node.preview }}">
         </a>
     </li>
     {%- endfor -%}

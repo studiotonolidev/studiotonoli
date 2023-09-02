@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chiesa BM"
+dir: ../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura pilastri
+preview: 30.jpg
+---
+
+Questa è la descrizione del post per bS

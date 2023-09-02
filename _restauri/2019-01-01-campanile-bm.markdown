@@ -1,8 +1,8 @@
 ---
 layout: works
 title:  "Campanile BM"
-dir: ville/1
-preview: 2.png
+dir: ../foto/Restauro e consolidamento/Campanile BM
+preview: 1.jpg
 content-url: campanile-bm
 works: "lavori-bm"
 ---
