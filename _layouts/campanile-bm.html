@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% assign collection =  site.collections | where: "label", page.works | first %}
+
+<h1>Campanile BM</h1>
+
+<div>
+    <video width="100%" controls>
+        <source src="../../foto/Restauro e consolidamento/Campanile BM/1.mp4" type="video/mp4">
+    </video>
+</div>
+
+<div class="post-list row">
+    <div class="col-sm-6 col-md-6">
+        <img class="work-preview" src="../../foto/Restauro e consolidamento/Campanile BM/1.jpg">
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <img class="work-preview" src="../../foto/Restauro e consolidamento/Campanile BM/2.jpg">
+    </div>
+</div>
+
+<ul class="post-list row">
+    {%- for node in collection.docs -%}
+    <li class="col-sm-6 col-md-6">
+        <h3>
+            <a class="post-link" href="{{ node.url | relative_url }}">
+            {{ node.title | escape }}
+            </a>
+        </h3>
+
+        <a href="{{ node.url | relative_url }}">
+            <img class="work-preview" src="{{ node.dir }}/{{ node.preview }}">
+        </a>
+    </li>
+    {%- endfor -%}
+</ul>
