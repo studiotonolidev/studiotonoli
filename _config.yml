@@ -38,6 +38,8 @@ collections:
     output: true
   lavori-bm:
     output: true
+  lavori-chiesa-bm:
+    output: true
 
 # Build settings
 theme: minima

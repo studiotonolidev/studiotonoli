@@ -4,8 +4,7 @@ layout: default
 
 {% assign collection =  site.collections | where: "label", page.works | first %}
 
-{% for node in collection.docs %}
-{% endfor %}
+<h2 class="post-list-heading">{{ page.title }}</h2>
 
 <ul class="post-list row">
     {%- for node in collection.docs -%}

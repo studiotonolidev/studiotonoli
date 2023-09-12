@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: works
 title:  "Chiesa BM"
-dir: ../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura pilastri
-preview: 30.jpg
+dir: ../foto/Restauro e consolidamento/Chiesa BM
+preview: /Cerchiatura pilastri/30.jpg
+content-url: chiesa-bm
+works: "lavori-chiesa-bm"
 ---
-
-Questa è la descrizione del post per bS
