@@ -12,12 +12,12 @@ content-url: ""
 
 ![image-title-here](../../../foto/basamenti/30.JPG){:class=""}
 
-![image-title-here](../../../foto/basamenti/40.JPG){:class=""}
+![image-title-here](../../../foto/basamenti/40.jpg){:class=""}
 
-![image-title-here](../../../foto/basamenti/50.JPG){:class=""}
+![image-title-here](../../../foto/basamenti/50.jpg){:class=""}
 
-![image-title-here](../../../foto/basamenti/60.JPG){:class=""}
+![image-title-here](../../../foto/basamenti/60.jpg){:class=""}
 
-![image-title-here](../../../foto/basamenti/70.JPG){:class=""}
+![image-title-here](../../../foto/basamenti/70.jpg){:class=""}
 
-![image-title-here](../../../foto/basamenti/80.JPG){:class=""}
+![image-title-here](../../../foto/basamenti/80.jpg){:class=""}
