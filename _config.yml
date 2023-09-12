@@ -30,6 +30,8 @@ linkedin: santo-tonoli
 collections:
   areas:
     output: true
+  ville:
+    output: true
   ville-nuove:
     output: true
   ville-ristr:
