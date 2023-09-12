@@ -1,7 +1,15 @@
 ---
 layout: post
-title:  "titolone"
-dir: ville/4
+title:  "Edilizia Residenziale (1/2)"
+dir: ../../foto/Ville/Nuove/4
 preview: 2.png
 ---
 
+### Durante i lavori
+
+![image-title-here](../../foto/Ville/Nuove/4/1.jpg){:class=""}
+
+
+### Dopo i lavori
+
+![image-title-here](../../foto/Ville/Nuove/4/2.png){:class=""}
