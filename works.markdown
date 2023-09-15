@@ -1,4 +1,0 @@
----
-layout: works
-permalink: /works/
----
