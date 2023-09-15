@@ -5,15 +5,15 @@ dir: ../../foto/Ville/Ristrutturazioni/1
 preview: 5.png
 ---
 
-### Prima dei lavori
+#### Prima dei lavori
 
 ![image-title-here](../../foto/Ville/Ristrutturazioni/1/1.png){:class=""}
 
-### Durante
+#### Durante
 
 ![image-title-here](../../foto/Ville/Ristrutturazioni/1/4.png){:class=""}
 
-### Dopo i lavori
+#### Dopo i lavori
 
 ![image-title-here](../../foto/Ville/Ristrutturazioni/1/2.png){:class=""}
 

@@ -5,4 +5,5 @@ dir: ../foto/Restauro e consolidamento/Chiesa BM
 preview: /Cerchiatura pilastri/30.jpg
 content-url: chiesa-bm
 works: "lavori-chiesa-bm"
+path-title: Chiesa BM
 ---

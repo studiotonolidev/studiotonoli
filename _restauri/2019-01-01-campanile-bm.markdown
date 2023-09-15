@@ -5,4 +5,5 @@ dir: ../foto/Restauro e consolidamento/Campanile BM
 preview: 1.jpg
 content-url: campanile-bm
 works: "lavori-bm"
+path-title: Campanile BM
 ---

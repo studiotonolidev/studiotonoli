@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class="post-list-heading">{{ page.list_title | default: "Realizzazioni" }}</h2>
+<h2>{{ page.list_title | default: "Realizzazioni" }}</h2>
 <ul class="post-list row">
     {%- for area in site.areas -%}
     <li class="col-sm-6 col-md-4">
