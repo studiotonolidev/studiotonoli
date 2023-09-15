@@ -4,16 +4,18 @@ layout: default
 
 {% assign collection =  site.collections | where: "label", page.works | first %}
 
-<h2 class="post-list-heading">{{ page.title }}</h2>
+<h2>
+    {{ page.path-title }}
+</h2>
 
 <ul class="post-list row">
     {%- for node in collection.docs -%}
     <li class="col-sm-6 col-md-4">
-        <h3>
-            <a class="post-link" href="{{ node.url | relative_url }}">
+        <div class="box">
+            <a href="{{ node.url | relative_url }}">
             {{ node.title | escape }}
             </a>
-        </h3>
+        </div>
 
         <a href="{{ node.url | relative_url }}">
             <img class="work-preview" src="{{ node.dir }}/{{ node.preview }}">

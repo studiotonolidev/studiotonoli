@@ -6,11 +6,11 @@ layout: default
 <ul class="post-list row">
     {%- for area in site.areas -%}
     <li class="col-sm-6 col-md-4">
-        <h3>
-            <a class="post-link" href="{{ area.content-url | default: area.url }}">
+        <h5 class="box">
+            <a href="{{ area.content-url | default: area.url }}">
             {{ area.title | escape }}
             </a>
-        </h3>
+        </h5>
 
         <a href="{{ area.content-url | default: area.url }}">
             <img class="work-preview" src="../foto/{{ area.dir }}/{{ area.preview }}">

@@ -6,3 +6,18 @@
 .landing-image {
     margin-bottom: 20px;
 }
+
+.box {
+    font-size: 20px;
+    height: 56.67px;
+    text-align: start;
+    margin-bottom: 10px;
+    align-items: center;
+    display: flex;
+}
+
+@media screen and (max-width: 560px) {
+    .box {
+        margin-bottom: 0;
+    }
+}
