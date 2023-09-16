@@ -5,6 +5,7 @@ dir: ../../foto/Restauro e consolidamento/Campanile BM/Abbassamento pilastro par
 preview: ../../foto/Preview/abbassamento.png
 ---
 
+#### Il peso del pilastro aveva causato il cedimento della volta di copertura
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Abbassamento pilastro parafulmine/8.JPG){:class=""}
 

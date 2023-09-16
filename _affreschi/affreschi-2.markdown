@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Affresco soffitto chiesa"
+title:  "Affresco"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Affreschi/2
 preview: ../../foto/Preview/affreschi2.png
 ---
+
+#### Eseguita riadesione ed integrazione superfici staccate
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Affreschi/2/1.JPG){:class=""}
 

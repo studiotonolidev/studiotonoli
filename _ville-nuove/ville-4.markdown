@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Edilizia Residenziale (1/2)"
+title:  "Edilizia Residenziale (1)"
 dir: ../../foto/Ville/Nuove/4
 preview: ../../foto/Preview/villenuove2.png
 ---

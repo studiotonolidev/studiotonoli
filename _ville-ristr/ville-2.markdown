@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ristrutturazione Brescia"
+title:  "Ristrutturazione (2)"
 dir: ../../foto/Ville/Ristrutturazioni/2
 preview: ../../foto/Preview/villeristr2.png
 ---

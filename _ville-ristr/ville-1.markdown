@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ristrutturazione"
+title:  "Ristrutturazione (1)"
 dir: ../../foto/Ville/Ristrutturazioni/1
 preview: ../../foto/Preview/villeristr1.png
 ---

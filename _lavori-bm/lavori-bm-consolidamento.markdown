@@ -5,6 +5,8 @@ dir: ../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta ce
 preview: ../../foto/Preview/consolidamento.png
 ---
 
+#### La soletta a voltine di mattoni e putrelle era in precarie condizioni causa il deterioramento degli elementi metallici
+
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/10.jpg){:class=""}
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/20.jpg){:class=""}
@@ -13,6 +15,6 @@ preview: ../../foto/Preview/consolidamento.png
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/40.jpg){:class=""}
 
-![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/50.jpg){:class=""}
+![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/50.JPG){:class=""}
 
-![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/60.jpg){:class=""}
+![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/60.JPG){:class=""}

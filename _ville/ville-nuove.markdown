@@ -1,6 +1,6 @@
 ---
 layout: works
-title:  "Nuove"
+title:  "Nuove realizzazioni"
 dir: ../../foto/Ville/Nuove/3
 preview: ../foto/Preview/villenuove.png
 content-url: ville-nuove
