@@ -2,7 +2,7 @@
 layout: post
 title:  "Basamenti di macchine utensili"
 dir: basamenti
-preview: 60.jpg
+preview: Preview/basamenti.png
 content-url: ""
 ---
 

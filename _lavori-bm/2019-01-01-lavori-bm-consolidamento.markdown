@@ -2,7 +2,7 @@
 layout: post
 title:  "Consolidamento soletta cella campanaria"
 dir: ../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria
-preview: 10.jpg
+preview: ../../foto/Preview/consolidamento.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Consolidamento soletta cella campanaria/10.jpg){:class=""}

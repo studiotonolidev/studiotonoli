@@ -2,7 +2,7 @@
 layout: post
 title:  "Particolari costruttivi"
 dir: Particolari costruttivi
-preview: 1.jpg
+preview: Preview/basamenti.png
 ---
 
 ![image-title-here](../../../foto/Particolari costruttivi/1.jpg){:class=""}

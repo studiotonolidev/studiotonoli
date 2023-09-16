@@ -2,7 +2,7 @@
 layout: post
 title:  "Campanile BS"
 dir: ../foto/Restauro e consolidamento/Campanile BS
-preview: 1.jpg
+preview: ../foto/Preview/campanilebs.png
 ---
 
 #### Prima dei lavori di restauro

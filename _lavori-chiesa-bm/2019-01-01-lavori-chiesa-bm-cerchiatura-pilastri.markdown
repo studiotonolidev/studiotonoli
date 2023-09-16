@@ -2,7 +2,7 @@
 layout: post
 title:  "Cerchiatura pilastri"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura pilastri
-preview: 10.jpg
+preview: ../../foto/Preview/cerchiaturapilastri.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura pilastri/10.jpg){:class=""}

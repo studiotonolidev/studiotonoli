@@ -2,7 +2,7 @@
 layout: works
 title:  "Nuove"
 dir: ../../foto/Ville/Nuove/3
-preview: 1.jpg
+preview: ../foto/Preview/villenuove.png
 content-url: ville-nuove
 works: "ville-nuove"
 path-title: Edilizia residenziale nuova

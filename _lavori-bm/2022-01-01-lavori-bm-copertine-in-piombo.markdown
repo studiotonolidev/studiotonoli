@@ -2,7 +2,7 @@
 layout: post
 title:  "Copertine in piombo doppia aggraffatura"
 dir: ../../foto/Restauro e consolidamento/Campanile BM/Copertine in piombo doppia aggraffatura
-preview: 1.JPG
+preview: ../../foto/Preview/copertine.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Campanile BM/Copertine in piombo doppia aggraffatura/1.JPG){:class=""}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cordolo tirante"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Cordolo tirante
-preview: 10.jpg
+preview: ../../foto/Preview/cordolotirante.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Cordolo tirante/10.jpg){:class=""}

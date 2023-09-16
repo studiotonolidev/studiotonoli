@@ -2,7 +2,7 @@
 layout: post
 title:  "Abbassamento pilastro parafulmine"
 dir: ../../foto/Restauro e consolidamento/Campanile BM/Abbassamento pilastro parafulmine
-preview: 8.JPG
+preview: ../../foto/Preview/abbassamento.png
 ---
 
 

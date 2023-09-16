@@ -2,7 +2,7 @@
 layout: post
 title:  "Cerchiatura cupola presbiterio"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura cupola presbiterio
-preview: 10.jpg
+preview: ../../foto/Preview/cerchiaturapresbiterio.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura cupola presbiterio/10.jpg){:class=""}

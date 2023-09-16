@@ -2,7 +2,7 @@
 layout: post
 title:  "Controventi di falda"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Controventi di falda
-preview: 10.jpg
+preview: ../../foto/Preview/controventi.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Controventi di falda/10.jpg){:class=""}

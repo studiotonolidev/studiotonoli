@@ -2,7 +2,7 @@
 layout: post
 title:  "Affresco soffitto chiesa"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Affreschi/2
-preview: 1.JPG
+preview: ../../foto/Preview/affreschi2.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Affreschi/2/1.JPG){:class=""}

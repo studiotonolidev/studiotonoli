@@ -2,7 +2,7 @@
 layout: post
 title:  "Cerchiatura cupola aula"
 dir: ../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura cupola aula
-preview: 10.jpg
+preview: ../../foto/Preview/cerchiatura.png
 ---
 
 ![image-title-here](../../../foto/Restauro e consolidamento/Chiesa BM/Cerchiatura cupola aula/10.jpg){:class=""}

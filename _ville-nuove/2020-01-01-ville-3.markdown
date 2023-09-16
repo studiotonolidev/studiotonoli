@@ -2,7 +2,7 @@
 layout: post
 title:  "Edilizia Residenziale (2/2)"
 dir: ../../foto/Ville/Nuove/3
-preview: 1.jpg
+preview: ../../foto/Preview/villenuove.png
 ---
 
 #### Nuova costruzione

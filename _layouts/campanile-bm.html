@@ -14,10 +14,10 @@ layout: default
 
 <div class="post-list row" style="margin-bottom: 10px">
     <div class="col-sm-6 col-md-6">
-        <img class="work-preview" src="../../foto/Restauro e consolidamento/Campanile BM/1.jpg">
+        <img class="work-preview" src="../../foto/Preview/campanilebm.png">
     </div>
     <div class="col-sm-6 col-md-6">
-        <img class="work-preview" src="../../foto/Restauro e consolidamento/Campanile BM/2.jpg">
+        <img class="work-preview" src="../../foto/Preview/campanilebm2.png">
     </div>
 </div>
 
@@ -31,7 +31,7 @@ layout: default
         </div>
 
         <a href="{{ node.url | relative_url }}">
-            <img class="work-preview" src="{{ node.dir }}/{{ node.preview }}">
+            <img class="work-preview" src="{{ node.preview }}">
         </a>
     </li>
     {%- endfor -%}
