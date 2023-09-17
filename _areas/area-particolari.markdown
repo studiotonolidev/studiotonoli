@@ -13,9 +13,9 @@ preview: Preview/particolari.png
 
 ![image-title-here](../../../foto/Particolari costruttivi/2.jpg){:class=""}
 
-#### Nuovo balcone in marmo con struttura in acciaio
-
 ![image-title-here](../../../foto/Particolari costruttivi/3.jpg){:class=""}
+
+#### Nuovo balcone in marmo con struttura in acciaio
 
 ![image-title-here](../../../foto/Particolari costruttivi/4.jpg){:class=""}
 
